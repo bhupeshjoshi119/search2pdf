@@ -1,29 +1,68 @@
-BSD 3-Clause License
+Copyright (c) 2025 Bhupesh Joshi
 
-Copyright (c) 2025, Bhupesh Joshi
-All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1) Preserve license and copyright notices
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software and in any distributed
+   binary or source form.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+2) Project-level Attribution Requirement (additional to the permission above)
+   NOTWITHSTANDING THE PERMISSIONS GRANTED ABOVE, any public distribution,
+   public-facing deployment, or public display of the Software (including but
+   not limited to browser extension packages, bundled binaries, hosted
+   services, or any service where the Software provides end-user
+   functionality) must include a clear and reasonably prominent attribution to
+   the original content author(s). The minimum attribution text required is:
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+       "Contains parts derived from 'GEN AI' by Bhupesh Joshi
+       (https://github.com/bhupeshcoding/) — used under CC BY 4.0."
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+   The required attribution must appear in at least one of the following
+   locations (choose the most appropriate for your distribution method):
+   - the product's About or Credits page (if present), or
+   - a visible UI location where end-users will reasonably see it (for
+     example, extension About/Settings page, popup, or an Options page), or
+   - the extension store listing / distribution page and the repository
+     README or a NOTICE file included with the distribution archive.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+   The attribution text must not be removed, obscured, or altered in a
+   misleading way. For content that remains licensed under CC BY 4.0, comply
+   with CC BY 4.0 attribution requirements as well (credit the original
+   authors, provide a link to the license, indicate if changes were made).
+
+3) Content license and third-party material
+   Certain content included with the Software (text, images, examples, or
+   other non-code material) is licensed separately under Creative Commons
+   Attribution 4.0 International (CC BY 4.0). Where such material is present,
+   you must follow CC BY 4.0 attribution requirements in addition to the
+   project-level attribution above. The original source of the CC BY 4.0
+   content in this project is:
+
+       "GEN AI" by Bhupesh Joshi — https://github.com/bhupeshcoding/
+       Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+   If you distribute or reuse actual text, images, or other content taken
+   directly from "GEN AI" by Bhupesh Joshi, you must provide attribution,
+   a link to the license, and indicate if changes were made, per CC BY 4.0.
+
+4) DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+Notes:
+- This LICENSE combines a permissive code license  with a project-level
+  attribution requirement. It is a custom augmentation; if you need strong legal
+  certainty, enforceability, or plan commercial enforcement, consult a lawyer.
+- Keep a clear NOTICE/README and show attribution visibly in the extension UI
+  and the store listing so downstream users comply easily.
